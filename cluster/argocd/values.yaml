@@ -13,7 +13,7 @@ argo-cd:
         hajimari.io/appName: ArgoCD
         hajimari.io/icon: robot
       hosts:
-        - argocd.192-168-0-200.nip.io
+        - argocd.192-168-100-200.nip.io
       tls: []
 
   configs:

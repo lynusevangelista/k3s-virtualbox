@@ -11,7 +11,7 @@ hajimari:
         hajimari.io/enable: 'false'
         nginx.ingress.kubernetes.io/ssl-redirect: "false"
       hosts:
-        - host: home.192-168-0-200.nip.io
+        - host: home.192-168-100-200.nip.io
           paths:
             - path: /
               pathType: Prefix
